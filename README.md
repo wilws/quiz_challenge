@@ -1,6 +1,6 @@
 
 # Link of the Web
-https://quiz-crajbvdqf-wilws.vercel.app/
+https://quiz-wilws.vercel.app/
 <br><br><br>
 
 
