@@ -132,6 +132,7 @@ All users in database were deleted.
 
 ## (3) - Lazy Loader <br>
 In the index page, when scrolling all to the bottom, auto loading will be triggered and another 12 quizzes will be fetched. When all the data are fetched out, lazy loader will be suspended.
+*** may take time to load because of using free tier database service.
 
 <br><br>
 
