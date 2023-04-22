@@ -1,6 +1,10 @@
 
 # Link of the Web
 https://quiz-wilws.vercel.app/
+
+*** <br>
+Loading time may be slow due to using free tier database service. Thanks for understanding.<br>
+*** <br>
 <br><br><br>
 
 
